@@ -1,5 +1,5 @@
 # Custom-HomePage
 Custom Homepage I made because brave doesnt allow much customization
 
-# ScreenShots
+# Screenshot
 ![Image ](https://github.com/Ddenobrega/Custom-HomePage/blob/main/home.png)
